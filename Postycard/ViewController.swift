@@ -35,6 +35,7 @@ class ViewController: UIViewController {
         messageLabel.textColor = UIColor.redColor()
         
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
+        mailButton.backgroundColor = UIColor.greenColor()
         
         nameLabel.hidden = false
         nameLabel.text = enterNameTextField.text
