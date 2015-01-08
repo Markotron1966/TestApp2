@@ -13,6 +13,8 @@
 		DD90E2E01A5C3B0B00A6695B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD90E2DF1A5C3B0B00A6695B /* Images.xcassets */; };
 		DD90E2E31A5C3B0B00A6695B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DD90E2E11A5C3B0B00A6695B /* LaunchScreen.xib */; };
 		DD90E2EF1A5C3B0B00A6695B /* PostycardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90E2EE1A5C3B0B00A6695B /* PostycardTests.swift */; };
+		DD90E2F91A5D356C00A6695B /* SagradaFamilia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD90E2F81A5D356C00A6695B /* SagradaFamilia.jpg */; };
+		DD90E2FB1A5D384900A6695B /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD90E2FA1A5D384900A6695B /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		DD90E2E81A5C3B0B00A6695B /* PostycardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostycardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD90E2ED1A5C3B0B00A6695B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD90E2EE1A5C3B0B00A6695B /* PostycardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostycardTests.swift; sourceTree = "<group>"; };
+		DD90E2F81A5D356C00A6695B /* SagradaFamilia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpg; sourceTree = "<group>"; };
+		DD90E2FA1A5D384900A6695B /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		DD90E2D61A5C3B0B00A6695B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DD90E2FA1A5D384900A6695B /* AlbertEinsteinStamp.jpg */,
+				DD90E2F81A5D356C00A6695B /* SagradaFamilia.jpg */,
 				DD90E2D71A5C3B0B00A6695B /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -161,6 +167,7 @@
 				TargetAttributes = {
 					DD90E2D21A5C3B0B00A6695B = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 5PULNR65GU;
 					};
 					DD90E2E71A5C3B0B00A6695B = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -194,7 +201,9 @@
 			files = (
 				DD90E2DE1A5C3B0B00A6695B /* Main.storyboard in Resources */,
 				DD90E2E31A5C3B0B00A6695B /* LaunchScreen.xib in Resources */,
+				DD90E2FB1A5D384900A6695B /* AlbertEinsteinStamp.jpg in Resources */,
 				DD90E2E01A5C3B0B00A6695B /* Images.xcassets in Resources */,
+				DD90E2F91A5D356C00A6695B /* SagradaFamilia.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
